@@ -1,8 +1,8 @@
 <h1 align="center">Faridun Eshonov</h1>
 
 <p align="center">
-  Frontend Developer from Tajikistan<br/>
-  React • TypeScript • Modern UI Engineering
+  Frontend Engineer • React & TypeScript<br/>
+  Building scalable, production-ready web interfaces
 </p>
 
 <p align="center">
@@ -19,28 +19,29 @@
 
 ---
 
-## 👨‍💻 About
+## 👨‍💻 About Me
 
-Frontend developer focused on building **scalable**, **maintainable**, and **user-friendly** web applications.  
-Hands-on experience with real production systems, CRM platforms, and modern frontend architecture.
-
----
-
-## 🔭 Currently
-
-- Working on **CRM for Kavsar Academy**
-- Developing complex UI flows and dashboards
-- Improving code quality, structure, and performance
-- Learning **React Native**, **Vue.js**, **Angular**
+Frontend Engineer with hands-on experience building **production-grade web applications** and **CRM systems**.  
+Specialized in **React** and **TypeScript**, with a strong focus on **clean architecture**, **scalable UI patterns**, and **long-term maintainability**.  
+Comfortable working with complex business logic, dashboards, and real users.
 
 ---
 
-## 🧠 Core Skills
+## 🚀 What I’m Working On
 
-- Component-based UI development
-- State management & architecture
-- Clean code & reusable patterns
-- Responsive & accessible layouts
+- Building a production CRM for **Kavsar Academy**
+- Designing complex dashboards and UI workflows
+- Refactoring legacy code into clean, scalable architecture
+- Expanding skills in **React Native**, **Vue.js**, and **Angular**
+
+---
+
+## 🧠 Core Expertise
+
+- Designing scalable component architectures
+- Managing complex state and business logic
+- Writing clean, readable, and maintainable code
+- Building responsive, accessible, production-ready UIs
 
 ---
 
@@ -51,7 +52,7 @@ Hands-on experience with real production systems, CRM platforms, and modern fron
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,bootstrap" />
 </p>
 
-### Tools & Workflow
+### Tooling & Workflow
 <p>
   <img src="https://skillicons.dev/icons?i=git,docker,webpack,vite,jenkins" />
 </p>
@@ -61,27 +62,29 @@ Hands-on experience with real production systems, CRM platforms, and modern fron
 ## 📌 Featured Project
 
 ### 🎓 CRM — Kavsar Academy
-A production-level CRM system designed for educational centers:
-- Student & mentor management  
-- Course and schedule handling  
-- Internal workflows and dashboards  
 
-Built with focus on **performance**, **clean UI**, and **scalability**.
+Production-grade CRM system designed for an educational center.
+
+- Role-based access (students, mentors, admins)
+- Course, schedule, and internal workflow management
+- Modular UI architecture for long-term scalability
+
+Built with a strong focus on **performance**, **maintainability**, and **clean UX**.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faridun-eshonov&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faridun-eshonov&show_icons=true&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=faridun-eshonov&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=faridun-eshonov&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <sub>Frontend is not just UI — it’s structure, clarity, and experience.</sub>
+  <sub>Frontend engineering is about clarity, structure, and real user experience.</sub>
 </p>
